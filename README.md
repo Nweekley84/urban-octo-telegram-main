@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 # Code Refactor Starter Code
 
 ## Description
@@ -32,5 +34,6 @@ THEN I find a concise, descriptive title
 
 ## License
 MIT? Available on repo.
+>>>>>>> fbc40e58d1a71da3a834066dd4f61cede0e8208f
 
 ![Alt text](../../Desktop/Screen%20Shot%202023-04-06%20at%204.06.38%20PM.png)
